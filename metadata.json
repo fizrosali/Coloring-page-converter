@@ -1,0 +1,5 @@
+{
+  "name": "Coloring Page Creator",
+  "description": "Upload any image and watch it magically transform into a printable, black and white coloring page for kids and adults alike. Powered by Gemini.",
+  "requestFramePermissions": []
+}
